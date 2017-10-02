@@ -27,7 +27,7 @@
 	},
 	"license" : "MIT",
 	"dependencies" : {
-		"moment": "git+ssh://git@github.com/tqc/moment.git#no-dynamic-import",
+		"moment": "git+ssh://git@github.com/tqc/moment.git#no-dynamic-import"
 	},
 	"devDependencies" : {
 		"grunt"                  : "0.4.5",
